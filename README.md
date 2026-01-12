@@ -208,6 +208,15 @@ contract SimpleStorage {
 - `/networks` - List available networks
 - `/help` - Show help and security information
 
+## Images
+
+<img width="891" height="693" alt="Screenshot 2026-01-13 at 12 25 06 AM" src="https://github.com/user-attachments/assets/54883860-3146-4217-a081-750a2ecf3982" />
+
+<img width="673" height="557" alt="Screenshot 2026-01-13 at 12 25 21 AM" src="https://github.com/user-attachments/assets/7edf3a3a-1aeb-4148-9621-5ab436b87ffb" />
+
+<img width="517" height="648" alt="Screenshot 2026-01-13 at 12 25 45 AM" src="https://github.com/user-attachments/assets/5c5eef0f-0af5-43f3-8b84-904913fb1359" />
+
+
 ## 📝 License
 
 This project is open source. Please use responsibly and follow security best practices.
